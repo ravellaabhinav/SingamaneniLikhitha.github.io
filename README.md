@@ -1,5 +1,3 @@
-# ahsankhan26.github.io
+# SingamaneniLikhitha.github.io
 
 Personal Static Website
-
-[ahsankhan.me](https://ahsankhan.me)
